@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Low Vibe</string>
+    <string name="mitologi">Mitologi</string>
+    <string name="konspirasi">Konspirasi</string>
+    <string name="horor">Horor</string>
+    <string name="alien">Alien</string>
+    <string name="fiksi">Fiksi</string>
+    <string name="aboutme">About Me</string>
+
+    <string name="desc_mitologi">Mitologi adalah Konsep dan dongeng suci tentang dewa dan makhluk halus.</string>
+</resources>
