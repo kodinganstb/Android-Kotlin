@@ -6,7 +6,7 @@
 </p>
 Android Kotlin Repository
 
-Dalam menyusum repository ini menggunakan 2 IDE/Editors berbeda.
+Dalam menyusun repository ini menggunakan 2 IDE/Editors berbeda.
 
 UNTUK APLIKASI ANDROID MENGGUNAKAN :
 <p>
