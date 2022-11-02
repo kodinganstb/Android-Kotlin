@@ -1,4 +1,6 @@
-Halo, kamu telah membuka file teks dari repo ini, repo yang kamu buka ini membahas tentang pemrograman kotlin dasar.
+Halo, repo yang kamu buka ini membahas tentang pemrograman kotlin dasar.
 SELAMAT BELAJAR!
 
 UNTUK MELIHAT KODENYA SILAHKAN JELAJAHI FOLDER "src/main/kotlin" klik file berekstensi .kt (kotlin)
+
+projek ini dibuat dengan IDE ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
