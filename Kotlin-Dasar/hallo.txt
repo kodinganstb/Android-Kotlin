@@ -1,0 +1,2 @@
+Halo, kamu telah membuka file teks dari repo ini, repo ini membahas tentang pemrograman kotlin dasar.
+SELAMAT BELAJAR! STAY CODING KEEP LEARNING!
