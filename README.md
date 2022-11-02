@@ -15,7 +15,7 @@ UNTUK APLIKASI ANDROID MENGGUNAKAN :
 
 </p>
 
-UNTUK APLIKASI KOTLIN DASAR MENGGUNAKAN :
+UNTUK PEMROGRAMAN KOTLIN DASAR MENGGUNAKAN :
 <p>
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
