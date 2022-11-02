@@ -6,7 +6,7 @@
 </p>
 Android Kotlin Repository
 
-Dalam menyusum repository ini menggunakan 2 IDE/Editors berbeda.
+Dalam menyusun repository ini menggunakan 2 IDE/Editors berbeda.
 
 UNTUK APLIKASI ANDROID MENGGUNAKAN :
 <p>
@@ -15,9 +15,12 @@ UNTUK APLIKASI ANDROID MENGGUNAKAN :
 
 </p>
 
-UNTUK APLIKASI KOTLIN DASAR MENGGUNAKAN :
+UNTUK PEMROGRAMAN KOTLIN DASAR MENGGUNAKAN :
 <p>
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 </p>
+
+
+# KOMUNITAS KODING STIMIK TUNAS BANGSA BANJARNEGARA
