@@ -9,5 +9,5 @@ fun main() {
 
     // materi yang singkat, untuk berikutnya kita akan bermain dengan boolean ini..
 
-
+    // Selamat bereksperimen!
 }
